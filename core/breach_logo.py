@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 # Imports.
-import sys # System.
 import time # The Time.
 import core.colors as colors # We all love a splash of color.
 import core.mods as mods # So we can let people modify it easier!
@@ -10,7 +9,7 @@ import core.mods as mods # So we can let people modify it easier!
 # Main logo.
 def breach_logo():
     mods.clear_screen()
-    print(colors.bcolors.BLINK + colors.bcolors.RED + '''
+    print(colors.bcolors.RED + '''
                      &&##BBBBB##&&                                              
                &##GJ!^:::.....:::^~!7JP& &                                      
             BY!:.:^7J5?:...............^YB??P#                                  
@@ -51,12 +50,12 @@ def breach_logo():
                       |,_-<  |__-' |__.     /  \   |      |___| 
                       |    ` |  \  |       /---'\  |      |   | 
                       `----' /   \ /----/,'      \  `.__, /   / 
-  ''' + colors.bcolors.ENDC + colors.bcolors.ENDC)
+  ''' + colors.bcolors.ENDC)
 time.sleep(2)  # Change load times by changing this!
 mods.clear_screen()  # Runs the clear screen mod.
 def display_notice():
   print(f'''
-#                                 {colors.bcolors.RED}(♥{colors.bcolors.ENDC} v 2.5.0 {colors.bcolors.RED}♥){colors.bcolors.ENDC}
+#                                 {colors.bcolors.RED}(♥{colors.bcolors.ENDC} ALPHA x.2.x {colors.bcolors.RED}♥){colors.bcolors.ENDC}
 #
 #  Lead & Developer:                 {colors.bcolors.RED}Shepherd{colors.bcolors.ENDC}
 #  Main repository : {colors.bcolors.UNDERLINE}https://github.com/ItsJustShepherd/Shepherd-Project{colors.bcolors.ENDC}
