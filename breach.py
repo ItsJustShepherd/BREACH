@@ -114,7 +114,7 @@ if args['gitinfo']:
     while True:
         print("\n") # Adds a break in the lines
         username = input("GitHub username: ") # Just asks you to give the username from GitHub.
-        print(f"Checking: {username} for repos (incl. forks...")
+        print(f"Checking: {username} for repos (incl. forks)...\n")
         r = requests.get(f'https://api.github.com/users/{username}/repos') # This does cause rate limiting, but we've found it works well for a handful of 'one-off checks' pulling from the api site.
         data = json.loads( r.text )
 
