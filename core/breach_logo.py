@@ -55,7 +55,7 @@ time.sleep(2)  # Change load times by changing this!
 mods.clear_screen()  # Runs the clear screen mod.
 def display_notice():
   print(f'''
-#                                 {colors.bcolors.RED}(♥{colors.bcolors.ENDC} ALPHA x.2.x {colors.bcolors.RED}♥){colors.bcolors.ENDC}
+#                                 {colors.bcolors.RED}(♥{colors.bcolors.ENDC} ALPHA x.2.2 {colors.bcolors.RED}♥){colors.bcolors.ENDC}
 #
 #  Lead & Developer:                 {colors.bcolors.RED}Shepherd{colors.bcolors.ENDC}
 #  Main repository : {colors.bcolors.UNDERLINE}https://github.com/ItsJustShepherd/Shepherd-Project{colors.bcolors.ENDC}

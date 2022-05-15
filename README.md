@@ -14,6 +14,7 @@ This is a tool kit orientated towards supporting whitehats and CyberSec enthusia
 • WhoIs. <br>
 • DNS Lookup. <br>
 • Name server records. <br>
+• Cloudflare bypass attempt. <br>
 • Curling / Wget. <br>
 • Port scanning. <br>
 • GitHub Crawling. <br>
@@ -69,6 +70,7 @@ Below you'll find advice for which versions we're still able to provide support 
 
 | Version | Supported          |
 | ------- | ------------------ |
+| x.2.2   | :white_check_mark: |
 | x.2.x   | :white_check_mark: |
 | x.1.x   |         :x:        |
 </details>
