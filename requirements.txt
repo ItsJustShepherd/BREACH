@@ -7,3 +7,4 @@ requests-futures>=1.0.0
 torrequest>=0.1.0
 whois
 traceroute
+dnsutils
