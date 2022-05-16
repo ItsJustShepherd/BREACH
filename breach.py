@@ -1,17 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import sys # System stuff.
-import os # Operating System functions.
-import time # Time.
-import subprocess # Now with extra cookies!
-import requests # For making requests.
-import json # Make those sweet JSON files.
-import argparse # Google said I needed this.
-import core.breach_logo as logo # My logo, of course.
-import core.colors as colors # We all love a splash of color.
-import core.mods as mods # So we can let people modify it easier!
-
 def main():
 
     # Imports.
