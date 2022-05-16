@@ -110,11 +110,11 @@ def main():
         while True:
             try:
                 print("Ignore any 'rm' attempts if shown:")
-                os.system(f"rm /tmp/nslookup_cname") # Removes nslookup_cname if one exits.
-                os.system(f"rm /tmp/nslookup_mx") # Removes nslookup_mx if one exits.
-                os.system(f"rm /tmp/nslookup_txt") # Removes nslookup_txt if one exits.
-                os.system(f"rm /tmp/fallenflare_result_ping") # Removes the results.
-                os.system(f"rm /tmp/fallenflare_result_whois") # Removes the results.
+                os.system("rm /tmp/nslookup_cname") # Removes nslookup_cname if one exits.
+                os.system("rm /tmp/nslookup_mx") # Removes nslookup_mx if one exits.
+                os.system("rm /tmp/nslookup_txt") # Removes nslookup_txt if one exits.
+                os.system("rm /tmp/fallenflare_result_ping") # Removes the results.
+                os.system("rm /tmp/fallenflare_result_whois") # Removes the results.
                 print("") # Adds a break in the lines.
                 ip_address = input("\nEnter the ip/domain: >_ ") # Just asks you to give the program what IP you want to look into.
                 print("(If you want to stop checks use 'ctrl+c')\n")
@@ -139,11 +139,11 @@ def main():
                 os.system("cat /tmp/fallenflare_result_ping | head -1") # Cats the fallenflare ping result.
                 sys.exit(0)
             except KeyboardInterrupt:
-                os.system(f"rm /tmp/nslookup_cname") # Removes nslookup_cname if one exits.
-                os.system(f"rm /tmp/nslookup_mx") # Removes nslookup_mx if one exits.
-                os.system(f"rm /tmp/nslookup_txt") # Removes nslookup_txt if one exits.
-                os.system(f"rm /tmp/fallenflare_result_ping") # Removes the results.
-                os.system(f"rm /tmp/fallenflare_result_whois") # Removes the results.
+                os.system("rm /tmp/nslookup_cname") # Removes nslookup_cname if one exits.
+                os.system("rm /tmp/nslookup_mx") # Removes nslookup_mx if one exits.
+                os.system("rm /tmp/nslookup_txt") # Removes nslookup_txt if one exits.
+                os.system("rm /tmp/fallenflare_result_ping") # Removes the results.
+                os.system("rm /tmp/fallenflare_result_whois") # Removes the results.
                 print('\nYou interrupted the program.')
                 try:
                     sys.exit(0)
