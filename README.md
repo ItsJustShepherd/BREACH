@@ -7,19 +7,21 @@
 </head>
 
    <p align="center">
-This is a tool kit orientated towards supporting whitehats and CyberSec enthusiasts.<br>
-  The B.R.E.A.C.H (BEGIN, RECON, <i>and</i>, ECHO, ACTIVE, CONFLICT, HARBRINGER)<br>kit is aiming to hand-hold you through all your pre-active enagement needs, such as:<br>
-• Tor interaction. (<i>If configured</i>) <br>
-• Custom ping. <br>
-• WhoIs. <br>
-• DNS Lookup. <br>
-• Name server records. <br>
-• Cloudflare bypass attempt. <br>
-• Curling / Wget. <br>
-• Port scanning. <br>
-• GitHub Crawling. <br>
-• Mobile Lookup. <br>
-• Email Lookup. <br>
+This is a tool kit orientated towards supporting whitehats and CyberSec enthusiasts.
+  The B.R.E.A.C.H (BEGIN, RECON, <i>and</i>, ECHO, ACTIVE, CONFLICT, HARBRINGER) kit is aiming to hand-hold you through all your pre-active enagement needs, such as:<br>
+   <p align="left">
+• Tor interaction. (<i>If configured</i>) ✅ <br>
+• Custom ping. ✅ <br>
+• WhoIs. ✅ <br>
+• DNS Lookup. ✅ <br>
+• Name server records. ✅ <br>
+• Cloudflare bypass using records. ✅ <br>
+• Curling / Wget. ❌<br>
+• Port scanning. ❌ <br>
+• GitHub Crawling. ✅ <br>
+• Mobile Lookup. ❌ <br>
+• Email Lookup. ❌ <br>
+   <p align="center">
 <br>
 BREACH is the pre-engagement assistance part of the 3-tools I maintain, these being <i>BREACH, SCARAB and CICADA</i>.<br>
 <i>If you want to contribute towards it just as others in the CyberSec Communities have, just get in touch through Discord.</i>
