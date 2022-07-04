@@ -8,6 +8,5 @@ Here you'll find developer notes regarding BREACH though I do suggest you see [T
 • Nothing to see here, yet.
 
 ### Support or Contact. 👥
-Shepherd | Lead & Developer                            | https://github.com/ItsJustShepherd<br>
-SAINTS | Community Bug Testing                         | https://discord.com/invite/jpHrWjWeWS<br>
-SaintSec | Diverse cyber security enthusiasts team     | https//www.SaintsSec.com<br>
+Shepherd | Lead & Developer                            | https://github.com/ItsJustShepherd <br>
+The SSG | Societal Security Guild Discord              | https://discord.com/invite/jpHrWjWeWS <br>
