@@ -58,9 +58,8 @@ BREACH itself is a rudementary OsInt supporting tool, you cna set it up with the
 
 # The team & supporters. 👥<br>
 <details>
-Shepherd | Lead & Developer                            | https://github.com/ItsJustShepherd<br>
-SAINTS | Community Bug Testing                         | https://discord.com/invite/jpHrWjWeWS<br>
-SaintSec | Diverse cyber security enthusiasts team     | https//www.SaintsSec.com<br>
+Shepherd | Lead & Developer                            | https://github.com/ItsJustShepherd <br>
+The SSG | Societal Security Guild Discord              | https://discord.com/invite/jpHrWjWeWS <br>
 Contributors.md                                        | <code>cat ./contributors.md</code><br>
 </details>
 
